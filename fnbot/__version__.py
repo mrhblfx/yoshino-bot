@@ -1,0 +1,6 @@
+__title__ = "fnbot"
+__version__ = "1.2.16"
+__description__ = "yoshino bot"
+__url__ = "https://github.com/Co1Li1La1/yoshino-bot"
+__author__ = "Co1Li1La1"
+__author_email__ = "mrhblfx@gmail.com"
